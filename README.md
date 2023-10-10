@@ -1,2 +1,2 @@
-# Hope-Studio-Code
-编译器，之后不仅能编译Java，还能编译其他语言。
+# Hope-Studio-Code-Java
+编译器，能编译Java.
